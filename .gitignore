@@ -1,0 +1,9 @@
+output
+hello_test
+.idea
+cmake-build-debug
+app
+core
+venv
+.pytest_cache
+tests/component/__pycache__
